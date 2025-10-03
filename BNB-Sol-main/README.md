@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src="[https://cdn.xoa.me/uploads/8a93c3fe-bb1d-4de1-9122-04a96ec06f5f.png](https://i.imgur.com/f9RLqQH.png)" />
+  <img height="170x" src="https://i.imgur.com/f9RLqQH.png" />
 
   <h1>BNB Sol/h1>
 
@@ -122,3 +122,4 @@ Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
   </a>
 
 </div>
+
