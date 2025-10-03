@@ -1,7 +1,7 @@
 <div align="center">
   <img height="170x" src="https://cdn.xoa.me/uploads/8a93c3fe-bb1d-4de1-9122-04a96ec06f5f.png" />
 
-  <h1>BNB Spork/h1>
+  <h1>BNB Sol/h1>
 
   <p>
     <strong>BNB Program Framework</strong>
@@ -120,4 +120,5 @@ Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
   <a href="https://github.com/coral-xyz/anchor/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=coral-xyz/anchor" width="100%" />
   </a>
+
 </div>
